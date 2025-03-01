@@ -1,1 +1,1 @@
-prin ("Hello version 1.4")
+print ("Hello version 1.4")
